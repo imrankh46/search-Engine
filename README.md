@@ -60,6 +60,8 @@ The tool will provide a list of suggestions to replace phrases in the input text
 Each suggestion includes the original phrase, the recommended replacement, and the similarity score.
 
 ![Image Alt Text](text_improvment.PNG)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
