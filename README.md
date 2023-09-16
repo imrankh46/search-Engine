@@ -32,7 +32,11 @@ The Text Improvement Engine is a tool that analyzes a given text and suggests im
 You can install the required packages using `pip`:
 
 ```bash
-pip install -r requirements.txt
+!pip install -r requirements.txt
+```
+Additionally, you need to install spaCy and download the English language model:
+```bash
+!python -m spacy download en_core_web_md
 ```
 ## Setup
 Clone this repository to your local machine:
