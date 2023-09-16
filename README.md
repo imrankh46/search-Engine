@@ -13,7 +13,6 @@ The Text Improvement Engine is a tool that analyzes a given text and suggests im
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
@@ -61,7 +60,5 @@ Each suggestion includes the original phrase, the recommended replacement, and t
 
 ![Image Alt Text](text_improvment.PNG)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
