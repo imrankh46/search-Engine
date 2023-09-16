@@ -3,7 +3,7 @@
 ## Project Overview
 
 The Text Improvement Engine is a tool that analyzes a given text and suggests improvements based on the similarity to a list of "standardized" phrases. These standardized phrases represent the ideal way certain concepts should be articulated, and the tool recommends changes to align the input text closer to these standards.
-![Image Alt Text](example.png)
+![Image Alt Text](search engen.png)
 
 
 ## Table of Contents
